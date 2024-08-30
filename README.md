@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="MasterHead" width="100%" height="330"/>
+<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="MasterHead" width="100%" height="310"/>
 
 
 <h1 align="center">
