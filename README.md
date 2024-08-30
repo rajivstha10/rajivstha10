@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="MasterHead" width="100%" height="350"/>
+<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="MasterHead" width="100%" height="340"/>
 <h1 align="center">Hello awesome people 👋, I'm Rajiv Shrestha.</h1>
 <h3 align="center">A passionate Mobile Application Developer from Nepal <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal Flag" width="18" /></h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e4714wemo9epioehbq7i10rqgsa1q6fu7mj884iitvm&ep=v1_gifs_search&rid=giphy.gif&ct=g">
