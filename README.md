@@ -1,9 +1,9 @@
-<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="MasterHead" width="100%" height="330" style="display: block; margin: 0;" />
+<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="MasterHead" width="100%" height="330"/>
 
-<h1 align="center" style="margin-top: 0;">
+
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rajiv+Shrestha!;" />
 </h1>
-
 
 <h3 align="center">A passionate Mobile Application Developer from Nepal <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal Flag" width="18" /></h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e4714wemo9epioehbq7i10rqgsa1q6fu7mj884iitvm&ep=v1_gifs_search&rid=giphy.gif&ct=g">
